@@ -1,22 +1,22 @@
 # Outlier_Algrithm
-fast way to find the outliers
+A fast way to find the outliers
 
-data: the original points
-
-
-in_out:inline-points and outline-points
+data:      the original points
 
 
-result:inline_points
+in_out:    inline-points and outline-points
 
 
-anchor：std, mean and min of rank
+result:    inline_points
 
 
-level:the trend from 0 to 10
+anchor：   std, mean and min of rank
 
 
-score:the score of center aggregation degree
+level:    the trend from 0 to 10
+
+
+score:    the score of center aggregation degree
 
 
 Samples:
