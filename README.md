@@ -1,4 +1,4 @@
-# Outlier_Aolgrithm
+# Outlier_Algorithm
 A fast way to find the outliers
 
 data:the original points
