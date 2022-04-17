@@ -17,3 +17,6 @@ level:the trend from 0 to 10
 
 
 score:the score of center aggregation degree
+
+
+Samples:
