@@ -1,5 +1,5 @@
 # Outlier_Algorithm
-A fast way to find out all the outliers
+A fast way to find out all the outliers(doufu110511@outlook.com)
 
 data: the original points
 
