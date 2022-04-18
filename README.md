@@ -42,4 +42,4 @@ combine:
 ![combine](https://user-images.githubusercontent.com/31699390/163813635-b6ebf5e8-abdf-40a7-a789-31e8acf144c1.png)
 
 
-the above samples are given as 2 dimentional data, but the algrithm also works well in other dimentional!( See more in 'result' directory )
+the above samples are given as 2 dimentional data, but the algorithm also works well in all dimentional ! ( See more in 'result' directory )
