@@ -1,25 +1,26 @@
 # Outlier_Algorithm
-A fast way to find the outliers
+A fast way to find out all the outliers
 
-data:the original points
-
-
-in_out:inline-points and outline-points
+data: the original points
 
 
-result:inline_points
+in_out: inline-points and outline-points
+
+
+result: inline_points
 
 
 anchor: different rank
 
 
-level:the trend 
+level: the trend 
 
 
-score:the score of center aggregation degree
+score: the score of center aggregation degree
 
 
 Samples:
+
 
 1d:
 
@@ -40,6 +41,7 @@ circle:
 combine:
 
 ![combine](https://user-images.githubusercontent.com/31699390/163813635-b6ebf5e8-abdf-40a7-a789-31e8acf144c1.png)
+
 
 
 the above samples are given as 2 dimentional data, but the algorithm also works well in all dimentional ! ( See more in 'result' directory )
