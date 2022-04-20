@@ -24,26 +24,26 @@ Samples:
 
 1d:
 
-![0 5k](https://user-images.githubusercontent.com/31699390/163813508-7d0da7f1-d0d4-417e-9cb3-013e7161e42e.png)
+![0 5k](https://user-images.githubusercontent.com/31699390/164234114-1e5ba9f4-cfd4-4c48-970a-89e6a5b06303.png)
 
 sin:
 
-![asinus](https://user-images.githubusercontent.com/31699390/163813547-d2406705-097b-40bf-bd7d-19a10a403b67.png)
+![asinus](https://user-images.githubusercontent.com/31699390/164234215-e4f7eacd-ac5f-4b96-bcf7-4682eb1c55e5.png)
 
 x:
 
-![bigx](https://user-images.githubusercontent.com/31699390/163813573-51800016-a0bd-4ccc-aac2-153e6e1db93e.png)
+![bigx](https://user-images.githubusercontent.com/31699390/164234264-fecfbc8a-49b1-49c7-8cd9-ef087a5ec57c.png)
 
 circle:
 
-![circle](https://user-images.githubusercontent.com/31699390/163813606-48e2c446-9b4c-4392-8759-ed345e53a569.png)
+![circle](https://user-images.githubusercontent.com/31699390/164234297-f57175cf-ed8d-458a-96b9-8dd20b16208e.png)
 
 combine:
 
-![combine](https://user-images.githubusercontent.com/31699390/163813635-b6ebf5e8-abdf-40a7-a789-31e8acf144c1.png)
+![combine](https://user-images.githubusercontent.com/31699390/164234325-8388f5c1-2ea8-4d64-b08c-22d41c61d6e0.png)
 
 
 ( See more in 'result' directory )
 
 
-the above samples are given as 2 dimentional data, but the algorithm also works well in all dimentional ! 
+the above samples are given with 2 dimentional data, but the algorithm works well in all dimentional ! 
