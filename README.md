@@ -4,19 +4,19 @@ A fast way to find out all the outliers(doufu110511@outlook.com)
 data: the original points
 
 
-in_out: inline-points and outline-points
+outlier: inline-points and outline-points
 
 
 result: inline_points
 
 
-anchor: different rank
+rank: different rank
 
 
-level: the trend 
+level: the trend of level
 
 
-score: the score of center aggregation degree
+anchor: the trend of anchor
 
 
 Samples:
