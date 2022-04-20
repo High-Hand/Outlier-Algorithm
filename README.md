@@ -26,21 +26,21 @@ Samples:
 
 ![0 5k](https://user-images.githubusercontent.com/31699390/164234114-1e5ba9f4-cfd4-4c48-970a-89e6a5b06303.png)
 
-sin:
+car:
 
-![asinus](https://user-images.githubusercontent.com/31699390/164234215-e4f7eacd-ac5f-4b96-bcf7-4682eb1c55e5.png)
+![car](https://user-images.githubusercontent.com/31699390/164234710-580d5fc4-e428-4418-af86-aad3fcb379a7.png)
 
-x:
+guass:
 
-![bigx](https://user-images.githubusercontent.com/31699390/164234264-fecfbc8a-49b1-49c7-8cd9-ef087a5ec57c.png)
+![sample](https://user-images.githubusercontent.com/31699390/164234773-adb831cb-9925-4ec9-9074-031cbe8cd50a.png)
 
 circle:
 
-![circle](https://user-images.githubusercontent.com/31699390/164234297-f57175cf-ed8d-458a-96b9-8dd20b16208e.png)
+![circles](https://user-images.githubusercontent.com/31699390/164234952-395d4b3d-8249-4130-b937-3e8a47b6506f.png)
 
-combine:
+spiral:
 
-![combine](https://user-images.githubusercontent.com/31699390/164234325-8388f5c1-2ea8-4d64-b08c-22d41c61d6e0.png)
+![spiral](https://user-images.githubusercontent.com/31699390/164235029-c308860c-318f-42b5-bb48-4690973b10e7.png)
 
 
 ( See more in 'result' directory )
