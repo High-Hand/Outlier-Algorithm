@@ -42,6 +42,10 @@ spiral:
 
 ![spiral](https://user-images.githubusercontent.com/31699390/164235029-c308860c-318f-42b5-bb48-4690973b10e7.png)
 
+3d:
+
+![buuny](https://user-images.githubusercontent.com/31699390/164235599-3aa68a67-716b-4492-ad63-288754a2669b.png)
+
 
 ( See more in 'result' directory )
 
