@@ -47,7 +47,4 @@ spiral:
 ![buuny](https://user-images.githubusercontent.com/31699390/164235599-3aa68a67-716b-4492-ad63-288754a2669b.png)
 
 
-( See more in 'result' directory )
-
-
-the above samples are given with 2 dimentional data, but the algorithm works well in all dimentional ! 
+The algorithm works well in all dimentional, see more in '/result' directory !
