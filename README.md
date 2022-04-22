@@ -20,7 +20,7 @@ anchor: the trend of anchor
 
 Analysis:
 
-![Analysis](https://user-images.githubusercontent.com/31699390/164507971-4cb1e7d5-e509-491f-9fde-b69113af1945.png)
+![Analysis](https://user-images.githubusercontent.com/31699390/164687827-c6a1aa12-5dd7-4063-a61e-cf7b83bc8dbf.png)
 
 Samples:
 
